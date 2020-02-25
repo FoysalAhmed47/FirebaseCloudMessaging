@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessaging</string>
+
+    <array name="topics">
+        <item>Updates</item>
+        <item>Notifications</item>
+    </array>
+</resources>
